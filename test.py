@@ -1,1 +1,1 @@
-test GitHub
+print("test GitHub")
